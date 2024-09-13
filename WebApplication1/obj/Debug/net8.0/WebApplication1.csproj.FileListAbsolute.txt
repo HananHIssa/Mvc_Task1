@@ -224,3 +224,4 @@ C:\Users\hp\Desktop\ConsoleApplication1\WebApplication1\WebApplication1\obj\Debu
 C:\Users\hp\Desktop\ConsoleApplication1\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\hp\Desktop\ConsoleApplication1\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\hp\Desktop\ConsoleApplication1\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\hp\Desktop\ConsoleApplication1\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

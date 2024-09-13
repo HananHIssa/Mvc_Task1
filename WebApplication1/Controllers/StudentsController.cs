@@ -2,7 +2,7 @@
 
 namespace WebApplication1.Controllers
 {
-    public class StudentsController1 : Controller
+    public class StudentsController : Controller
     {
         public IActionResult getall()
         {
